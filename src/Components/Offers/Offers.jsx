@@ -5,7 +5,7 @@ import exclusive_image from '../Assets/exclusive_image.png'
 const Offers = () => {
   return (
     <div className='offers'>
-      <div className="offer-left">
+      <div className="offers-left">
         <h1>Exclusive</h1>
         <h1>Offers for you</h1>
         <p>ONLY ON BEST SELLERS PRODUCT</p>
