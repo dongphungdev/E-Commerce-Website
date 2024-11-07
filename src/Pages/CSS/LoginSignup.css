@@ -100,9 +100,9 @@
   }
 }
 @media(max-width:800px){
-  /* .loginsignup{
-    padding-top: 70px;
-  } */
+  .loginsignup{
+    padding-top: 50px;
+  }
   .loginsignup-container{
     padding: 20px 30px;
   }
